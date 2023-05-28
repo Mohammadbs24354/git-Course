@@ -1,0 +1,11 @@
+.row{
+    background-color: antiquewhite;
+    grid-area: span;
+    font-size: large;
+    align-items: end;
+    margin-top: 500px;
+}
+
+button{
+    background-color: aqua;
+}
